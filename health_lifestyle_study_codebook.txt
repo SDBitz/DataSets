@@ -1,0 +1,40 @@
+
+CODEBOOK: Health and Lifestyle Study
+
+-----------------------------------------
+1. Main Dataset: health_lifestyle_study_main.csv
+-----------------------------------------
+
+Variable                  | Description
+--------------------------|------------------------------------------------------
+ParticipantID             | Unique identifier for each participant (1–1500)
+Region                    | Geographic region of residence (Urban, Suburban, Rural)
+Age                       | Age of participant in years
+Weight_Before             | Weight at baseline in pounds
+Exercise_Min_per_Week     | Minutes of exercise per week
+Smoker                    | Whether participant is a smoker (Yes/No)
+Takes_Medication          | Whether participant takes medication (Yes/No)
+Hypertension              | Hypertension status at baseline (Yes/No)
+Diet_Type                 | Primary dietary pattern (Omnivore, Vegetarian, Vegan, Keto)
+Education                 | Highest level of education (High School, Some College, Bachelor, Graduate)
+Blood_Pressure_Before     | Systolic blood pressure at baseline in mmHg
+
+-----------------------------------------
+2. Paired Dataset: health_lifestyle_study_paired.csv
+-----------------------------------------
+
+Includes all columns from the main dataset plus:
+
+Weight_After              | Weight after 12-week exercise program in pounds
+Blood_Pressure_After      | Systolic blood pressure after program in mmHg
+Hypertension_After        | Hypertension classification after program (Yes/No)
+
+-----------------------------------------
+3. Matched Pairs Dataset: health_lifestyle_study_matched.csv
+-----------------------------------------
+
+MatchID                   | ID for matched pair (1001–1060)
+Diet_Assignment           | Assigned diet type (High-Fiber, Low-Carb)
+Age                       | Age of participant in years
+BMI                       | Body Mass Index (kg/m²)
+Cholesterol               | Blood cholesterol after 8-week diet in mg/dL
