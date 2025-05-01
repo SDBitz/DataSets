@@ -1,0 +1,101 @@
+ParticipantID,Region,Age,Weight_Before,Exercise_Min_per_Week,Smoker,Takes_Medication,Hypertension,Diet_Type,Education,Blood_Pressure_Before,Weight_After,Blood_Pressure_After,Hypertension_After
+92,Urban,57.0,82.4,158.0,Yes,No,No,Omnivore,Bachelor,139.2,77.8,134.4,Yes
+76,Urban,55.0,168.9,211.0,No,Yes,No,Omnivore,High School,147.1,166.1,134.9,Yes
+1265,Rural,47.0,177.6,117.0,No,Yes,No,Vegetarian,Bachelor,133.7,175.9,125.6,No
+331,Urban,45.0,191.2,166.0,No,No,No,Vegan,Some College,124.2,185.4,118.8,No
+1350,Rural,42.0,153.8,92.0,Yes,Yes,Yes,Keto,Some College,154.2,146.5,143.1,Yes
+775,Suburban,52.0,137.4,31.0,No,Yes,No,Omnivore,High School,146.0,129.9,141.6,Yes
+1039,Rural,48.0,132.6,119.0,No,No,No,Vegetarian,High School,128.2,125.9,117.0,No
+1286,Rural,29.0,159.4,130.0,No,No,No,Vegetarian,Graduate,112.2,155.9,103.1,No
+1166,Rural,74.0,129.0,160.0,Yes,No,No,Omnivore,Some College,151.7,121.9,146.7,Yes
+336,Urban,43.0,180.8,53.0,Yes,No,No,Omnivore,Some College,122.1,174.9,111.5,No
+686,Suburban,54.0,216.0,77.0,Yes,No,No,Vegetarian,Some College,138.9,210.6,128.2,No
+182,Urban,35.0,169.3,146.0,No,Yes,Yes,Vegan,Graduate,150.9,166.1,137.1,Yes
+1221,Rural,31.0,228.6,0.0,No,No,Yes,Vegan,High School,164.8,225.1,152.0,Yes
+102,Urban,40.0,211.2,163.0,Yes,No,No,Vegan,Some College,115.9,206.0,105.4,No
+693,Suburban,32.0,230.7,181.0,Yes,Yes,No,Vegan,Bachelor,132.8,218.4,130.4,Yes
+1127,Rural,49.0,212.1,76.0,Yes,Yes,No,Keto,Graduate,140.8,206.2,120.6,No
+170,Urban,36.0,186.4,99.0,Yes,No,No,Omnivore,High School,156.0,183.2,155.0,Yes
+927,Suburban,38.0,187.2,168.0,No,Yes,No,Omnivore,Some College,162.8,184.7,150.1,Yes
+1296,Rural,44.0,144.5,44.0,Yes,No,No,Vegan,High School,138.2,141.0,128.0,No
+415,Urban,49.0,116.0,92.0,No,No,No,Omnivore,High School,130.8,104.5,128.7,No
+1411,Rural,61.0,153.9,87.0,No,No,Yes,Omnivore,Graduate,162.7,150.1,155.3,Yes
+1280,Rural,41.0,184.4,138.0,No,No,No,Vegan,High School,148.1,176.7,140.5,Yes
+1465,Rural,38.0,206.7,91.0,No,Yes,No,Vegetarian,Some College,127.1,202.8,112.6,No
+809,Suburban,60.0,186.0,153.0,No,No,Yes,Vegetarian,Bachelor,145.8,180.2,141.4,Yes
+103,Urban,41.0,150.6,202.0,No,Yes,No,Keto,High School,132.2,143.2,125.5,No
+1400,Rural,37.0,178.6,167.0,Yes,Yes,No,Omnivore,High School,116.0,175.3,119.7,No
+1244,Rural,33.0,186.7,155.0,No,Yes,Yes,Vegetarian,Bachelor,134.6,183.6,117.9,No
+923,Suburban,47.0,163.1,103.0,Yes,Yes,No,Vegan,Bachelor,119.3,153.1,116.7,No
+1298,Rural,42.0,116.4,126.0,No,No,No,Vegetarian,Graduate,130.0,108.4,120.4,No
+762,Suburban,46.0,182.1,119.0,No,Yes,No,Vegan,High School,129.8,174.7,122.3,No
+1159,Rural,57.0,175.2,88.0,No,Yes,Yes,Omnivore,Bachelor,163.4,167.8,155.9,Yes
+293,Urban,38.0,165.2,184.0,Yes,Yes,Yes,Omnivore,High School,149.9,158.8,137.9,Yes
+1337,Rural,38.0,227.1,37.0,No,No,No,Omnivore,High School,132.0,216.0,115.6,No
+1200,Rural,61.0,209.9,149.0,Yes,No,No,Vegetarian,Graduate,166.5,204.8,157.2,Yes
+232,Urban,48.0,159.5,19.0,No,No,No,Vegan,High School,131.9,152.8,120.6,No
+1038,Rural,27.0,197.6,109.0,No,No,No,Vegetarian,Some College,106.8,197.0,97.2,No
+1142,Rural,62.0,163.5,202.0,No,No,No,Omnivore,High School,152.3,161.0,139.2,Yes
+38,Urban,21.0,154.0,129.0,No,No,No,Vegetarian,Bachelor,118.2,152.6,112.5,No
+54,Urban,52.0,145.2,81.0,No,No,Yes,Omnivore,Graduate,143.9,136.4,130.5,Yes
+1010,Rural,39.0,130.3,152.0,No,Yes,No,Omnivore,Bachelor,135.6,133.0,122.0,No
+926,Suburban,27.0,185.4,103.0,No,No,No,Vegetarian,High School,116.3,181.6,102.9,No
+562,Suburban,70.0,165.9,82.0,Yes,Yes,Yes,Vegan,Bachelor,164.9,169.9,160.2,Yes
+680,Suburban,60.0,170.2,116.0,No,Yes,No,Vegetarian,Bachelor,143.3,167.7,136.1,Yes
+590,Suburban,35.0,213.6,100.0,No,No,No,Omnivore,High School,131.8,210.1,122.6,No
+895,Suburban,62.0,167.5,100.0,No,No,No,Omnivore,Some College,138.5,158.3,137.4,Yes
+698,Suburban,30.0,170.6,137.0,No,No,Yes,Omnivore,Some College,126.6,164.4,110.6,No
+1212,Rural,37.0,216.0,93.0,No,Yes,Yes,Omnivore,Graduate,133.8,213.5,125.9,No
+896,Suburban,53.0,126.5,170.0,No,No,No,Omnivore,Some College,125.2,118.3,115.8,No
+1461,Rural,43.0,145.3,179.0,No,Yes,No,Omnivore,Graduate,135.6,140.2,130.5,Yes
+195,Urban,47.0,173.8,43.0,No,No,No,Vegetarian,High School,138.1,168.7,136.7,Yes
+1177,Rural,25.0,180.5,120.0,No,No,No,Keto,Graduate,119.4,179.1,114.4,No
+1260,Rural,44.0,188.7,76.0,No,Yes,No,Omnivore,Graduate,132.1,186.7,123.0,No
+1105,Rural,58.0,151.3,117.0,Yes,No,Yes,Vegetarian,Bachelor,150.9,148.8,139.5,Yes
+485,Urban,36.0,198.6,69.0,Yes,No,Yes,Omnivore,Some College,127.9,193.5,119.1,No
+991,Suburban,48.0,169.6,36.0,No,No,No,Omnivore,Bachelor,127.6,164.4,117.9,No
+1180,Rural,32.0,162.1,103.0,Yes,Yes,No,Omnivore,Bachelor,114.4,152.5,108.1,No
+461,Urban,69.0,168.4,205.0,Yes,No,No,Omnivore,Some College,151.4,162.2,140.9,Yes
+1352,Rural,23.0,195.0,122.0,No,Yes,No,Keto,Some College,122.4,198.1,107.0,No
+422,Urban,66.0,192.4,116.0,No,No,No,Omnivore,Bachelor,140.5,186.6,129.0,No
+597,Suburban,42.0,190.1,71.0,No,No,No,Omnivore,High School,130.4,189.5,118.4,No
+1033,Rural,50.0,186.7,62.0,No,Yes,Yes,Vegan,High School,136.1,184.6,126.6,No
+1432,Rural,55.0,156.3,8.0,No,No,No,Omnivore,High School,132.2,153.7,131.7,Yes
+573,Suburban,49.0,172.7,136.0,No,No,Yes,Omnivore,Graduate,158.9,169.7,156.1,Yes
+497,Urban,33.0,169.2,161.0,No,No,No,Vegan,Some College,121.1,168.3,110.8,No
+1245,Rural,37.0,94.1,121.0,No,No,Yes,Omnivore,High School,158.2,88.5,150.3,Yes
+305,Urban,45.0,115.9,175.0,No,Yes,No,Vegan,High School,133.0,115.1,122.8,No
+269,Urban,40.0,173.7,132.0,No,No,No,Omnivore,Graduate,121.7,167.6,105.3,No
+310,Urban,43.0,196.9,120.0,Yes,Yes,No,Vegetarian,Graduate,111.7,185.2,100.1,No
+1372,Rural,66.0,183.8,93.0,Yes,Yes,No,Vegan,Bachelor,138.6,182.8,124.3,No
+536,Suburban,46.0,252.8,200.0,Yes,No,No,Vegetarian,High School,140.9,248.7,132.4,Yes
+1049,Rural,63.0,200.6,115.0,No,Yes,No,Omnivore,High School,147.4,203.2,143.4,Yes
+454,Urban,51.0,150.4,92.0,No,Yes,No,Vegan,Some College,150.2,146.3,142.5,Yes
+924,Suburban,37.0,168.7,39.0,No,No,Yes,Omnivore,Graduate,133.8,161.8,129.8,No
+548,Suburban,43.0,169.7,193.0,No,No,No,Vegetarian,High School,132.8,162.5,117.0,No
+986,Suburban,31.0,195.8,16.0,No,No,No,Vegetarian,High School,117.5,190.6,105.5,No
+1383,Rural,71.0,151.8,87.0,No,Yes,No,Omnivore,High School,158.7,144.1,148.1,Yes
+1056,Rural,37.0,186.0,130.0,Yes,No,No,Keto,High School,129.6,173.4,115.4,No
+141,Urban,48.0,170.7,162.0,No,No,No,Omnivore,High School,121.0,160.6,123.1,No
+436,Urban,46.0,124.9,164.0,Yes,No,Yes,Omnivore,High School,161.0,121.5,150.1,Yes
+1054,Rural,48.0,181.7,130.0,No,No,Yes,Vegan,High School,147.6,181.1,146.2,Yes
+302,Urban,38.0,168.2,73.0,Yes,No,No,Omnivore,Some College,109.8,164.4,101.8,No
+1048,Rural,26.0,153.1,261.0,No,No,No,Vegan,High School,119.2,150.9,112.8,No
+522,Suburban,52.0,178.3,0.0,Yes,No,Yes,Omnivore,Some College,152.0,171.9,140.7,Yes
+1044,Rural,45.0,160.7,135.0,Yes,No,Yes,Vegan,Some College,153.6,159.2,144.5,Yes
+528,Suburban,46.0,207.2,223.0,No,Yes,No,Omnivore,Some College,139.6,202.4,124.9,No
+1069,Rural,39.0,195.8,61.0,No,No,No,Vegetarian,Bachelor,129.7,188.3,124.7,No
+1174,Rural,44.0,153.8,72.0,Yes,No,No,Omnivore,Graduate,142.8,149.1,131.3,Yes
+168,Urban,68.0,154.9,128.0,No,Yes,No,Omnivore,High School,141.3,152.7,132.5,Yes
+463,Urban,37.0,185.6,128.0,Yes,Yes,No,Omnivore,Some College,142.7,177.1,142.9,Yes
+391,Urban,34.0,186.4,41.0,No,No,Yes,Vegan,Bachelor,144.9,187.0,141.5,Yes
+824,Suburban,41.0,220.2,129.0,Yes,No,No,Omnivore,Bachelor,132.3,216.2,125.0,No
+630,Suburban,58.0,191.5,88.0,No,Yes,Yes,Keto,High School,142.7,186.6,129.1,No
+49,Urban,49.0,193.0,141.0,No,No,Yes,Omnivore,High School,136.8,188.0,126.5,No
+873,Suburban,28.0,174.8,65.0,No,No,No,Omnivore,Graduate,117.6,169.3,115.4,No
+112,Urban,45.0,123.1,106.0,No,Yes,Yes,Omnivore,High School,146.9,116.3,139.6,Yes
+794,Suburban,30.0,145.8,108.0,No,Yes,Yes,Vegetarian,High School,139.5,140.9,121.4,No
+632,Suburban,63.0,170.6,88.0,Yes,Yes,No,Vegetarian,High School,152.3,166.7,143.7,Yes
+858,Suburban,51.0,174.3,150.0,No,Yes,No,Omnivore,Some College,147.9,170.5,141.5,Yes
+387,Urban,49.0,145.7,79.0,Yes,No,No,Vegetarian,High School,134.9,142.5,124.4,No
+1079,Rural,63.0,178.4,101.0,No,No,No,Omnivore,High School,133.4,171.0,121.6,No
